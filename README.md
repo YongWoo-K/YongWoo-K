@@ -6,7 +6,6 @@
 <div align='center'> 🖥열심히 공부하는 신입 백엔드 개발자입니다.</div>
 <br>
 <div align='center'> Email : athekinga@naver.com</div>
-<div align='center'> Notion : </div>
 <br>
 <p align="center">
 🍚&nbsp&nbsp&nbsplanguages
